@@ -77,7 +77,7 @@ The dataset contains the following columns:
 
 1. Run the script:  
    ```bash
-   python house_price_prediction.py
+   python house_price_prediction.ipynb
    ```
 
 2. Follow the instructions in the terminal to load the dataset and start predictions.
